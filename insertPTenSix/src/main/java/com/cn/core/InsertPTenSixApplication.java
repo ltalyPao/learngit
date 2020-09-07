@@ -1,0 +1,13 @@
+package com.cn.core;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class InsertPTenSixApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(InsertPTenSixApplication.class, args);
+    }
+
+}
